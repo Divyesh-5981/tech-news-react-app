@@ -2,7 +2,7 @@
 
 - Explore the latest technology news with this simple React app. Search for keywords or specific technologies to get relevant news articles. Powered by the Algolia API, the app provides a seamless experience for discovering and removing specific blogs from your personalized list.
 
-![Tech News App Screenshot](url_to_app_screenshot)
+![Tech News App Screenshot](https://github.com/Divyesh-5981/tech-news-react-app/blob/master/src/technews_ss.png?raw=true)
 
 ## Features 🌐
 
